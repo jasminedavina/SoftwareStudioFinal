@@ -1,1 +1,1 @@
-Developed a personalized skincare recommendation app using AI and Flutter for my Software Studio final project. The app analyzes user preferences and skin types to provide tailored product recommendations.
+I worked with my friends to develope a personalized skincare recommendation app using AI and Flutter for my Software Studio final project. The app analyzes user preferences and skin types to provide tailored product recommendations.
